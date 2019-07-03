@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - ZXYTitleScrollView (0.0.1):
+    - Masonry
+
+DEPENDENCIES:
+  - ZXYTitleScrollView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - ZXYTitleScrollView
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ZXYTitleScrollView: 8654fb8075a31895ba1ce9c6f9e276c2445771b4
+
+PODFILE CHECKSUM: b8693ff9fe9c1ff10bde02f3e6c91b7593f935a3
+
+COCOAPODS: 1.7.0
