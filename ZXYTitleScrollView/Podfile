@@ -1,6 +1,0 @@
-platform :ios, '8.0'
-target 'ZXYTitleScrollView' do
-
-pod 'Masonry'
-
-end
