@@ -1,6 +1,6 @@
 
 # ZXYTitleScrollView
-## PDF文档阅读器,可定位到指定的页码
+## 滚动菜单
 # 使用ZXYTitleScrollView
 
 三步完成主流App框架搭建：
